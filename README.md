@@ -2,6 +2,8 @@
 
 keymap layout for 46-key CRKBD (v4.1)
 
+![overview plan of keymap](./ot-corne-4-1-full-layout.png)
+
 For those unfamiliar, the Corne (aka CRKBD) is a split 'ergonomic' keyboard, with 3x6 staggered ortholinear columns and 3 thumb keys.
 
 ## Considerations
