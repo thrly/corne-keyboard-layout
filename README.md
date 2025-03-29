@@ -1,10 +1,15 @@
-# Corne (crkbd) keyboard layout
-
+# thrly's VIAL Corne keyboard layout
 keymap layout for 46-key CRKBD (v4.1)
+
+>[!NOTE]
+>I've stopped using VIAL in favour of ZMK now. My new ZMK configs are [here](https://github.com/thrly/thrly-corne-zmk).
+
+>[!TIP]
+>You can read some reflections on developing this layout (and the more recent ZMK flavour) [here](https://thrly.com/blog/thoughts-on-customising-a-split-keyboard-layout/).
 
 ![overview plan of keymap](./ot-corne-4-1-full-layout.png)
 
-For those unfamiliar, the Corne (aka CRKBD) is a split 'ergonomic' keyboard, with 3x6 staggered ortholinear columns and 3 thumb keys.
+For those unfamiliar, the [Corne (aka CRKBD)](https://github.com/foostan/crkbd) is a split 'ergonomic' keyboard, with 3x6 staggered ortholinear columns and 3 thumb keys.
 
 ## Considerations
 
